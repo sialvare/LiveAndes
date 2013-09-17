@@ -1,0 +1,511 @@
+E 09/17/2013 15:39:15:127 00000414           HttpServer| The file /app/GeoLocation/showmap_250 was not found
+E 09/17/2013 15:39:15:127 00001118         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:16:993 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:17:004 00000414           HttpServer| Process URI: '/app/GeoLocation/showmap_250'
+E 09/17/2013 15:39:17:005 00000414           HttpServer| The file /app/GeoLocation/showmap_250 was not found
+E 09/17/2013 15:39:17:005 00001118         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:17:430 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:17:431 00000414           HttpServer| Process URI: '/app/GeoLocation/showmap_250'
+E 09/17/2013 15:39:17:432 00000414           HttpServer| The file /app/GeoLocation/showmap_250 was not found
+E 09/17/2013 15:39:17:433 00001118         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:17:691 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:17:692 00000414           HttpServer| Process URI: '/app/GeoLocation/showmap_250'
+E 09/17/2013 15:39:17:693 00000414           HttpServer| The file /app/GeoLocation/showmap_250 was not found
+E 09/17/2013 15:39:17:694 00001118         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:17:829 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:17:830 00000414           HttpServer| Process URI: '/app/GeoLocation/showmap_250'
+E 09/17/2013 15:39:17:831 00000414           HttpServer| The file /app/GeoLocation/showmap_250 was not found
+E 09/17/2013 15:39:17:832 00001118         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:18:017 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:18:028 00000414           HttpServer| Process URI: '/app/GeoLocation/showmap_250'
+E 09/17/2013 15:39:18:029 00000414           HttpServer| The file /app/GeoLocation/showmap_250 was not found
+E 09/17/2013 15:39:18:030 00001118         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:18:184 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:18:185 00000414           HttpServer| Process URI: '/app/GeoLocation/showmap_250'
+E 09/17/2013 15:39:18:186 00000414           HttpServer| The file /app/GeoLocation/showmap_250 was not found
+E 09/17/2013 15:39:18:186 00001118         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:18:940 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:18:941 00000414           HttpServer| Process URI: '/app/GeoLocation/showmap_250'
+E 09/17/2013 15:39:18:942 00000414           HttpServer| The file /app/GeoLocation/showmap_250 was not found
+E 09/17/2013 15:39:18:942 00001118         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:21:182 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:21:193 00000414           HttpServer| Process URI: '/app/GeoLocation/showmap_250'
+E 09/17/2013 15:39:21:194 00000414           HttpServer| The file /app/GeoLocation/showmap_250 was not found
+E 09/17/2013 15:39:21:194 00001118         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:27:072 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:27:073 00000414           HttpServer| Process URI: '/app/GeoLocation/showmap_coding'
+E 09/17/2013 15:39:27:075 00000414           HttpServer| The file /app/GeoLocation/showmap_coding was not found
+E 09/17/2013 15:39:27:075 00001118         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:28:181 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:28:182 00000414           HttpServer| Process URI: '/app/GeoLocation/showmap_250'
+E 09/17/2013 15:39:28:184 00000414           HttpServer| The file /app/GeoLocation/showmap_250 was not found
+E 09/17/2013 15:39:28:184 00001118         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:29:086 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:29:097 00000414           HttpServer| Process URI: '/app/GeoLocation/showmap_250'
+E 09/17/2013 15:39:29:098 00000414           HttpServer| The file /app/GeoLocation/showmap_250 was not found
+E 09/17/2013 15:39:29:099 00001118         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:32:511 00001118            RhodesApp| callAppActiveCallback
+I 09/17/2013 15:39:32:511 00001118         AppCallbacks| addCommand: APP-DEACTIVATED
+I 09/17/2013 15:39:32:511 00001118                  Net| Method: GET;Url: http://127.0.0.1:1377/system/deactivateapp
+I 09/17/2013 15:39:32:512 00001930         AppCallbacks| process command: APP-DEACTIVATED
+I 09/17/2013 15:39:32:512 00001930         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/17/2013 15:39:32:512 00000414           HttpServer| Process URI: '/system/deactivateapp'
+I 09/17/2013 15:39:32:513 00001118                  Net| Method: GET;Url: http://127.0.0.1:1377/system/uidestroyed
+I 09/17/2013 15:39:32:518 00000414           HttpServer| Process URI: '/system/uidestroyed'
+I 09/17/2013 15:39:32:519 00001930         AppCallbacks| Thread shutdown
+I 09/17/2013 15:39:32:519 00001118           HttpServer| Stopping server...
+I 09/17/2013 15:39:32:520 00000414            RhodesApp| RhodesApp thread shutdown
+I 09/17/2013 15:39:32:520 00000414          GeoLocation| Destroying singleton instance.
+I 09/17/2013 15:39:32:520 00000414                 Sync| Stopping Sync thread
+6:58:027 00000fe8              RhoRuby| Init_RhoBlobs: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/rhosimulator/db/db-files
+I 09/17/2013 15:36:58:029 00000fe8              RhoRuby| require_compiled: digest
+I 09/17/2013 15:36:58:030 00000fe8              RhoRuby| require_compiled: digest.so
+I 09/17/2013 15:36:58:036 00000fe8              RhoRuby| require_compiled: rhoframework
+I 09/17/2013 15:36:58:039 00000fe8              RhoRuby| require_compiled: rational
+I 09/17/2013 15:36:58:040 00000fe8              RhoRuby| require_compiled: rhom/rhom_db_adapter
+I 09/17/2013 15:36:58:045 00000fe8              RhoRuby| require_compiled: rhodes
+I 09/17/2013 15:36:58:046 00000fe8              RhoRuby| require_compiled: rhom/rhom_object
+I 09/17/2013 15:36:58:047 00000fe8              RhoRuby| require_compiled: rhofsconnector
+I 09/17/2013 15:36:58:047 00000fe8              RhoRuby| require_compiled: rho/rhofsconnector
+I 09/17/2013 15:36:58:049 00000fe8              RhoRuby| require_compiled: rhom/rhom_object_factory
+I 09/17/2013 15:36:58:077 00000fe8              RhoRuby| require_compiled: rhom/rhom
+I 09/17/2013 15:36:58:082 00000fe8              RhoRuby| require_compiled: rhom/rhom_model
+I 09/17/2013 15:36:58:083 00000fe8              RhoRuby| require_compiled: rhom
+I 09/17/2013 15:36:58:084 00000fe8              RhoRuby| require_compiled: rho/rhoapplication
+I 09/17/2013 15:36:58:086 00000fe8              RhoRuby| require_compiled: rholang/localization_simplified
+I 09/17/2013 15:36:58:089 00000fe8              RhoRuby| require_compiled: rho/rhomsg
+I 09/17/2013 15:36:58:090 00000fe8              RhoRuby| require_compiled: rho/rhotabbar
+I 09/17/2013 15:36:58:091 00000fe8              RhoRuby| require_compiled: rho/rhotoolbar
+I 09/17/2013 15:36:58:092 00000fe8                  APP| Current locale: ; Country code: 
+I 09/17/2013 15:36:58:092 00000fe8                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/lang_
+I 09/17/2013 15:36:58:092 00000fe8              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/lang_es
+I 09/17/2013 15:36:58:093 00000fe8                  APP| Locilized file: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/lang/lang_
+I 09/17/2013 15:36:58:094 00000fe8                  APP| Could not find resources for locale: es;file: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/lang/lang_
+I 09/17/2013 15:36:58:094 00000fe8                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhoerror_
+I 09/17/2013 15:36:58:094 00000fe8              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhoerror_es
+I 09/17/2013 15:36:58:095 00000fe8                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhomsg_
+I 09/17/2013 15:36:58:095 00000fe8              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhomsg_es
+I 09/17/2013 15:36:58:095 00000fe8              RhoRuby| require_compiled: indifferent_access
+I 09/17/2013 15:36:58:097 00000fe8              RhoRuby| require_compiled: rho/rhosupport
+I 09/17/2013 15:36:58:101 00000fe8              RhoRuby| require_compiled: rho/rhocontroller
+I 09/17/2013 15:36:58:103 00000fe8              RhoRuby| require_compiled: rho/render
+I 09/17/2013 15:36:58:110 00000fe8              RhoRuby| require_compiled: rho/rho
+I 09/17/2013 15:36:58:128 00000fe8              RhoRuby| require_compiled: rho/rhoerror
+I 09/17/2013 15:36:58:129 00000fe8              RhoRuby| require_compiled: rhom/rhom_source
+E 09/17/2013 15:36:58:131 00000fe8              RhoRuby| require_compiled: error: can not find rhodes_translator
+I 09/17/2013 15:36:58:131 00000fe8              RhoRuby| require_compiled: rho/rhoviewhelpers
+I 09/17/2013 15:36:58:134 00000fe8              RhoRuby| require_compiled: rho
+I 09/17/2013 15:36:58:134 00000fe8              RhoRuby| require_compiled: debugger
+I 09/17/2013 15:36:58:138 00000fe8              RhoRuby| require_compiled: uri
+I 09/17/2013 15:36:58:139 00000fe8              RhoRuby| require_compiled: uri/common
+I 09/17/2013 15:36:58:153 00000fe8              RhoRuby| require_compiled: uri/generic
+I 09/17/2013 15:36:58:164 00000fe8              RhoRuby| require_compiled: uri/ftp
+I 09/17/2013 15:36:58:167 00000fe8              RhoRuby| require_compiled: uri/http
+I 09/17/2013 15:36:58:169 00000fe8              RhoRuby| require_compiled: uri/https
+I 09/17/2013 15:36:58:169 00000fe8              RhoRuby| require_compiled: uri/ldap
+I 09/17/2013 15:36:58:172 00000fe8              RhoRuby| require_compiled: uri/ldaps
+I 09/17/2013 15:36:58:173 00000fe8              RhoRuby| require_compiled: uri/mailto
+I 09/17/2013 15:36:58:177 00000fe8              RhoRuby| require_compiled: timeout
+I 09/17/2013 15:36:59:181 00000fe8                  APP| [Debugger] Unable to open connection to debugger: #<Errno::ECONNREFUSED: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. - connect(2)>
+I 09/17/2013 15:36:59:181 00000fe8                  APP| RHO loaded
+I 09/17/2013 15:36:59:181 00000fe8                  APP| Calling RHO.initialize
+I 09/17/2013 15:36:59:181 00000fe8              RhoRuby| require_compiled: rhoappmanifest
+I 09/17/2013 15:36:59:182 00000fe8              RhoRuby| require_compiled: find
+I 09/17/2013 15:36:59:190 00000fe8                  APP| model file: Geolocation/geolocation
+I 09/17/2013 15:36:59:190 00000fe8                   DB| Open DB: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/rhosimulator/db/syncdbuser.sqlite
+I 09/17/2013 15:36:59:191 00000fe8          GeoLocation| Creating singleton instance.
+I 09/17/2013 15:36:59:191 00000fe8            RhodesApp| Starting sync engine...
+I 09/17/2013 15:36:59:191 00000fe8                 Sync| sync_poll_interval: 0
+I 09/17/2013 15:36:59:191 00000fe8                 Sync| syncserver: 
+I 09/17/2013 15:36:59:191 00000fe8                 Sync| bulksync_state: 0
+I 09/17/2013 15:36:59:191 00000fe8            RhodesApp| RhoRubyInitApp...
+I 09/17/2013 15:36:59:191 00000fe8                  APP| init_app
+I 09/17/2013 15:36:59:191 00000fe8              RhoRuby| require_compiled: application
+I 09/17/2013 15:36:59:191 00000fe8                 Sync| Set notification. Source ID: -1;Url :http://127.0.0.1:1221/app/Settings/sync_notify; Params: 
+I 09/17/2013 15:36:59:192 00000fe8           HttpServer| Start HTTP server
+I 09/17/2013 15:36:59:192 00000fe8           HttpServer| Listen for connections on port 1221
+I 09/17/2013 15:36:59:192 00000fe8         AppCallbacks| addCommand: LOCAL-SERVER-STARTED
+I 09/17/2013 15:36:59:193 00001694         AppCallbacks| process command: LOCAL-SERVER-STARTED
+I 09/17/2013 15:36:59:193 00001694  SystemImpl.cpp: 829| rho_sys_report_app_started() has no implementation on Win Mobile.
+I 09/17/2013 15:36:59:193 00001694         AppCallbacks| process command: UI-CREATED
+I 09/17/2013 15:36:59:193 00001694                  Net| Method: GET;Url: http://127.0.0.1:1221/system/uicreated
+I 09/17/2013 15:36:59:229 00000fe8           HttpServer| Process URI: '/system/uicreated'
+I 09/17/2013 15:36:59:229 00000fe8                  APP| on_ui_created.navigate to start url: '/app'
+I 09/17/2013 15:36:59:230 00000bf0           MainWindow| navigate: 'http://127.0.0.1:1221/app'
+I 09/17/2013 15:36:59:230 00001694         AppCallbacks| process command: APP-ACTIVATED
+I 09/17/2013 15:36:59:230 00000bf0         QtMainWindow| WebView: loading...
+I 09/17/2013 15:36:59:230 00001694                  Net| Method: GET;Url: http://127.0.0.1:1221/system/activateapp
+I 09/17/2013 15:36:59:231 00000fe8           HttpServer| Process URI: '/system/activateapp'
+I 09/17/2013 15:36:59:231 00001694         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/17/2013 15:36:59:231 00000fe8           HttpServer| Process URI: '/app'
+I 09/17/2013 15:36:59:242 00000fe8           HttpServer| Process URI: '/app/index.erb'
+I 09/17/2013 15:36:59:243 00000fe8                  APP| RHO serve_index: /app/index.erb
+I 09/17/2013 15:36:59:243 00000fe8 RHO Rho::RhoController| inst_render_index
+I 09/17/2013 15:36:59:243 00000fe8              RhoRuby| require_compiled: erb
+I 09/17/2013 15:36:59:249 00000fe8                  APP| eval_compiled_file : C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/index.erb
+I 09/17/2013 15:36:59:251 00000fe8 RHO Rho::RhoController| index layout
+I 09/17/2013 15:36:59:251 00000fe8                  APP| eval_compiled_file : C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/layout.erb
+I 09/17/2013 15:36:59:253 00000bf0           MainWindow| addToolbarButton: Label: '';Action: 'back'
+I 09/17/2013 15:36:59:253 00000fe8           HttpServer| GC Start.
+I 09/17/2013 15:36:59:253 00000bf0           MainWindow| addToolbarButton: Label: '';Action: 'separator'
+I 09/17/2013 15:36:59:253 00000bf0           MainWindow| addToolbarButton: Label: '';Action: 'home'
+I 09/17/2013 15:36:59:253 00000bf0           MainWindow| addToolbarButton: Label: '';Action: 'refresh'
+I 09/17/2013 15:36:59:253 00000bf0           MainWindow| addToolbarButton: Label: '';Action: 'options'
+I 09/17/2013 15:36:59:255 00000fe8           HttpServer| GC End.
+I 09/17/2013 15:36:59:257 00000bf0         QtMainWindow| WebView: URL changed
+I 09/17/2013 15:36:59:330 00000fe8           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 09/17/2013 15:36:59:332 00000fe8           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 09/17/2013 15:36:59:333 00000fe8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 09/17/2013 15:36:59:333 00000fe8           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/17/2013 15:36:59:334 00000fe8           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 09/17/2013 15:36:59:371 00000fe8           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/17/2013 15:36:59:372 00000fe8           HttpServer| Process URI: '/public/css/android.css'
+I 09/17/2013 15:36:59:460 00000fe8           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 09/17/2013 15:36:59:480 00000fe8           HttpServer| Process URI: '/favicon.ico'
+E 09/17/2013 15:36:59:481 00000fe8           HttpServer| The file /favicon.ico was not found
+I 09/17/2013 15:36:59:486 00000bf0         QtMainWindow| Page load complete.
+I 09/17/2013 15:37:01:578 00000fe8           HttpServer| Process URI: '/app/Geolocation'
+I 09/17/2013 15:37:01:578 00000fe8                  APP| RHO serve: /app/Geolocation
+I 09/17/2013 15:37:01:578 00000fe8              RhoRuby| require_compiled: Geolocation/geolocation_controller
+I 09/17/2013 15:37:01:580 00000fe8              RhoRuby| require_compiled: helpers/browser_helper
+I 09/17/2013 15:37:01:580 00000fe8                  APP| const_missing: Geolocation
+I 09/17/2013 15:37:01:580 00000fe8                  APP| load_model: Geolocation
+I 09/17/2013 15:37:01:581 00000fe8              RhoRuby| require_compiled: Geolocation/geolocation
+I 09/17/2013 15:37:01:581 00000fe8                  APP| model name: Geolocation
+I 09/17/2013 15:37:01:581 00000fe8                  APP| model class found
+I 09/17/2013 15:37:01:581 00000fe8                  APP| Geolocation : {"property"=>{}}
+I 09/17/2013 15:37:01:581 00000fe8                   DB| Open DB: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/rhosimulator/db/syncdblocal.sqlite
+I 09/17/2013 15:37:01:582 00000fe8                  APP| init_db_sources
+I 09/17/2013 15:37:01:582 00000fe8                  APP| start_id: 40005
+I 09/17/2013 15:37:01:582 00000fe8                  APP| Migrate schema sources: {}
+I 09/17/2013 15:37:01:583 00000fe8                  APP| eval_compiled_file : C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/Geolocation/index.erb
+I 09/17/2013 15:37:01:585 00000fe8           HttpServer| GC Start.
+I 09/17/2013 15:37:01:586 00000fe8           HttpServer| GC End.
+I 09/17/2013 15:37:01:609 00000bf0         QtMainWindow| WebView: URL changed
+I 09/17/2013 15:37:03:442 00000bf0            RhodesApp| callAppActiveCallback
+I 09/17/2013 15:37:03:442 00000bf0         AppCallbacks| addCommand: APP-DEACTIVATED
+I 09/17/2013 15:37:03:442 00000bf0                  Net| Method: GET;Url: http://127.0.0.1:1221/system/deactivateapp
+I 09/17/2013 15:37:03:447 00001694         AppCallbacks| process command: APP-DEACTIVATED
+I 09/17/2013 15:37:03:447 00001694         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/17/2013 15:37:03:453 00000fe8           HttpServer| Process URI: '/system/deactivateapp'
+I 09/17/2013 15:37:03:454 00000bf0                  Net| Method: GET;Url: http://127.0.0.1:1221/system/uidestroyed
+I 09/17/2013 15:37:03:454 00000fe8           HttpServer| Process URI: '/system/uidestroyed'
+I 09/17/2013 15:37:03:455 00001694         AppCallbacks| Thread shutdown
+I 09/17/2013 15:37:03:455 00000bf0           HttpServer| Stopping server...
+I 09/17/2013 15:37:03:455 00000fe8            RhodesApp| RhodesApp thread shutdown
+I 09/17/2013 15:37:03:455 00000fe8          GeoLocation| Destroying singleton instance.
+I 09/17/2013 15:37:03:455 00000fe8                 Sync| Stopping Sync thread
+I 09/17/2013 15:37:29:042 00001ad0            RhodesApp| New start params: "-approot='C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile'" "-rhodespath='C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13'"
+I 09/17/2013 15:37:29:042 00001ad0      Rhodes.cpp: 468| Rhodes started
+I 09/17/2013 15:37:29:042 00000f20         AppCallbacks| Starting main routine...
+I 09/17/2013 15:37:29:043 00000f20         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/17/2013 15:37:29:043 00001ad0            RhodesApp| Trying to get free listening port.
+I 09/17/2013 15:37:29:045 00001ad0            RhodesApp| Trying to bind of 0 port...
+I 09/17/2013 15:37:29:045 00001ad0            RhodesApp| Got port to bind on: 1267
+I 09/17/2013 15:37:29:045 00001ad0            RhodesApp| Free listening port: 1267
+I 09/17/2013 15:37:29:101 00001ad0            RhodesApp| callAppActiveCallback
+I 09/17/2013 15:37:29:101 00001ad0         AppCallbacks| addCommand: APP-ACTIVATED
+I 09/17/2013 15:37:29:101 00000f20         AppCallbacks| Received command APP-ACTIVATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 09/17/2013 15:37:29:101 00000f20         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/17/2013 15:37:29:104 00001ad0         AppCallbacks| addCommand: UI-CREATED
+I 09/17/2013 15:37:29:104 00000f20         AppCallbacks| Received command UI-CREATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 09/17/2013 15:37:29:104 00000f20         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/17/2013 15:37:29:104 00001ad0           MainWindow| navigate: 'about:blank'
+I 09/17/2013 15:37:29:104 00001464            RhodesApp| Starting RhodesApp main routine...
+I 09/17/2013 15:37:29:104 00001ad0         QtMainWindow| WebView: loading...
+I 09/17/2013 15:37:29:105 00001ad0         QtMainWindow| WebView: URL changed
+I 09/17/2013 15:37:29:105 00001ad0         QtMainWindow| Page load complete.
+I 09/17/2013 15:37:29:112 00001464              RhoRuby| Init_RhoBlobs: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/rhosimulator/db/db-files
+I 09/17/2013 15:37:29:115 00001464              RhoRuby| require_compiled: digest
+I 09/17/2013 15:37:29:116 00001464              RhoRuby| require_compiled: digest.so
+I 09/17/2013 15:37:29:126 00001464              RhoRuby| require_compiled: rhoframework
+I 09/17/2013 15:37:29:128 00001464              RhoRuby| require_compiled: rational
+I 09/17/2013 15:37:29:129 00001464              RhoRuby| require_compiled: rhom/rhom_db_adapter
+I 09/17/2013 15:37:29:135 00001464              RhoRuby| require_compiled: rhodes
+I 09/17/2013 15:37:29:136 00001464              RhoRuby| require_compiled: rhom/rhom_object
+I 09/17/2013 15:37:29:137 00001464              RhoRuby| require_compiled: rhofsconnector
+I 09/17/2013 15:37:29:137 00001464              RhoRuby| require_compiled: rho/rhofsconnector
+I 09/17/2013 15:37:29:140 00001464              RhoRuby| require_compiled: rhom/rhom_object_factory
+I 09/17/2013 15:37:29:165 00001464              RhoRuby| require_compiled: rhom/rhom
+I 09/17/2013 15:37:29:169 00001464              RhoRuby| require_compiled: rhom/rhom_model
+I 09/17/2013 15:37:29:171 00001464              RhoRuby| require_compiled: rhom
+I 09/17/2013 15:37:29:172 00001464              RhoRuby| require_compiled: rho/rhoapplication
+I 09/17/2013 15:37:29:175 00001464              RhoRuby| require_compiled: rholang/localization_simplified
+I 09/17/2013 15:37:29:177 00001464              RhoRuby| require_compiled: rho/rhomsg
+I 09/17/2013 15:37:29:179 00001464              RhoRuby| require_compiled: rho/rhotabbar
+I 09/17/2013 15:37:29:180 00001464              RhoRuby| require_compiled: rho/rhotoolbar
+I 09/17/2013 15:37:29:180 00001464                  APP| Current locale: ; Country code: 
+I 09/17/2013 15:37:29:180 00001464                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/lang_
+I 09/17/2013 15:37:29:180 00001464              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/lang_es
+I 09/17/2013 15:37:29:182 00001464                  APP| Locilized file: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/lang/lang_
+I 09/17/2013 15:37:29:182 00001464                  APP| Could not find resources for locale: es;file: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/lang/lang_
+I 09/17/2013 15:37:29:182 00001464                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhoerror_
+I 09/17/2013 15:37:29:182 00001464              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhoerror_es
+I 09/17/2013 15:37:29:183 00001464                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhomsg_
+I 09/17/2013 15:37:29:183 00001464              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhomsg_es
+I 09/17/2013 15:37:29:184 00001464              RhoRuby| require_compiled: indifferent_access
+I 09/17/2013 15:37:29:187 00001464              RhoRuby| require_compiled: rho/rhosupport
+I 09/17/2013 15:37:29:190 00001464              RhoRuby| require_compiled: rho/rhocontroller
+I 09/17/2013 15:37:29:191 00001464              RhoRuby| require_compiled: rho/render
+I 09/17/2013 15:37:29:197 00001464              RhoRuby| require_compiled: rho/rho
+I 09/17/2013 15:37:29:214 00001464              RhoRuby| require_compiled: rho/rhoerror
+I 09/17/2013 15:37:29:215 00001464              RhoRuby| require_compiled: rhom/rhom_source
+E 09/17/2013 15:37:29:218 00001464              RhoRuby| require_compiled: error: can not find rhodes_translator
+I 09/17/2013 15:37:29:219 00001464              RhoRuby| require_compiled: rho/rhoviewhelpers
+I 09/17/2013 15:37:29:221 00001464              RhoRuby| require_compiled: rho
+I 09/17/2013 15:37:29:222 00001464              RhoRuby| require_compiled: debugger
+I 09/17/2013 15:37:29:227 00001464              RhoRuby| require_compiled: uri
+I 09/17/2013 15:37:29:228 00001464              RhoRuby| require_compiled: uri/common
+I 09/17/2013 15:37:29:241 00001464              RhoRuby| require_compiled: uri/generic
+I 09/17/2013 15:37:29:250 00001464              RhoRuby| require_compiled: uri/ftp
+I 09/17/2013 15:37:29:254 00001464              RhoRuby| require_compiled: uri/http
+I 09/17/2013 15:37:29:255 00001464              RhoRuby| require_compiled: uri/https
+I 09/17/2013 15:37:29:256 00001464              RhoRuby| require_compiled: uri/ldap
+I 09/17/2013 15:37:29:259 00001464              RhoRuby| require_compiled: uri/ldaps
+I 09/17/2013 15:37:29:260 00001464              RhoRuby| require_compiled: uri/mailto
+I 09/17/2013 15:37:29:263 00001464              RhoRuby| require_compiled: timeout
+I 09/17/2013 15:37:30:268 00001464                  APP| [Debugger] Unable to open connection to debugger: #<Errno::ECONNREFUSED: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. - connect(2)>
+I 09/17/2013 15:37:30:268 00001464                  APP| RHO loaded
+I 09/17/2013 15:37:30:268 00001464                  APP| Calling RHO.initialize
+I 09/17/2013 15:37:30:268 00001464              RhoRuby| require_compiled: rhoappmanifest
+I 09/17/2013 15:37:30:269 00001464              RhoRuby| require_compiled: find
+I 09/17/2013 15:37:30:274 00001464                  APP| model file: Geolocation/geolocation
+I 09/17/2013 15:37:30:275 00001464                   DB| Open DB: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/rhosimulator/db/syncdbuser.sqlite
+I 09/17/2013 15:37:30:275 00001464          GeoLocation| Creating singleton instance.
+I 09/17/2013 15:37:30:275 00001464            RhodesApp| Starting sync engine...
+I 09/17/2013 15:37:30:275 00001464                 Sync| sync_poll_interval: 0
+I 09/17/2013 15:37:30:275 00001464                 Sync| syncserver: 
+I 09/17/2013 15:37:30:275 00001464                 Sync| bulksync_state: 0
+I 09/17/2013 15:37:30:275 00001464            RhodesApp| RhoRubyInitApp...
+I 09/17/2013 15:37:30:275 00001464                  APP| init_app
+I 09/17/2013 15:37:30:275 00001464              RhoRuby| require_compiled: application
+I 09/17/2013 15:37:30:276 00001464                 Sync| Set notification. Source ID: -1;Url :http://127.0.0.1:1267/app/Settings/sync_notify; Params: 
+I 09/17/2013 15:37:30:276 00001464           HttpServer| Start HTTP server
+I 09/17/2013 15:37:30:277 00001464           HttpServer| Listen for connections on port 1267
+I 09/17/2013 15:37:30:277 00001464         AppCallbacks| addCommand: LOCAL-SERVER-STARTED
+I 09/17/2013 15:37:30:277 00000f20         AppCallbacks| process command: LOCAL-SERVER-STARTED
+I 09/17/2013 15:37:30:277 00000f20  SystemImpl.cpp: 829| rho_sys_report_app_started() has no implementation on Win Mobile.
+I 09/17/2013 15:37:30:277 00000f20         AppCallbacks| process command: UI-CREATED
+I 09/17/2013 15:37:30:277 00000f20                  Net| Method: GET;Url: http://127.0.0.1:1267/system/uicreated
+I 09/17/2013 15:37:30:297 00001464           HttpServer| Process URI: '/system/uicreated'
+I 09/17/2013 15:37:30:297 00001464                  APP| on_ui_created.navigate to start url: '/app'
+I 09/17/2013 15:37:30:298 00001ad0           MainWindow| navigate: 'http://127.0.0.1:1267/app'
+I 09/17/2013 15:37:30:298 00001ad0         QtMainWindow| WebView: loading...
+I 09/17/2013 15:37:30:298 00000f20         AppCallbacks| process command: APP-ACTIVATED
+I 09/17/2013 15:37:30:298 00000f20                  Net| Method: GET;Url: http://127.0.0.1:1267/system/activateapp
+I 09/17/2013 15:37:30:299 00001464           HttpServer| Process URI: '/system/activateapp'
+I 09/17/2013 15:37:30:299 00000f20         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/17/2013 15:37:30:299 00001464           HttpServer| Process URI: '/app'
+I 09/17/2013 15:37:30:301 00001464           HttpServer| Process URI: '/app/index.erb'
+I 09/17/2013 15:37:30:301 00001464                  APP| RHO serve_index: /app/index.erb
+I 09/17/2013 15:37:30:301 00001464 RHO Rho::RhoController| inst_render_index
+I 09/17/2013 15:37:30:302 00001464              RhoRuby| require_compiled: erb
+I 09/17/2013 15:37:30:310 00001464                  APP| eval_compiled_file : C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/index.erb
+I 09/17/2013 15:37:30:312 00001464 RHO Rho::RhoController| index layout
+I 09/17/2013 15:37:30:312 00001464                  APP| eval_compiled_file : C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/layout.erb
+I 09/17/2013 15:37:30:313 00001ad0           MainWindow| addToolbarButton: Label: '';Action: 'back'
+I 09/17/2013 15:37:30:314 00001464           HttpServer| GC Start.
+I 09/17/2013 15:37:30:314 00001ad0           MainWindow| addToolbarButton: Label: '';Action: 'separator'
+I 09/17/2013 15:37:30:314 00001ad0           MainWindow| addToolbarButton: Label: '';Action: 'home'
+I 09/17/2013 15:37:30:314 00001ad0           MainWindow| addToolbarButton: Label: '';Action: 'refresh'
+I 09/17/2013 15:37:30:314 00001ad0           MainWindow| addToolbarButton: Label: '';Action: 'options'
+I 09/17/2013 15:37:30:315 00001464           HttpServer| GC End.
+I 09/17/2013 15:37:30:336 00001ad0         QtMainWindow| WebView: URL changed
+I 09/17/2013 15:37:30:339 00001464           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 09/17/2013 15:37:30:354 00001464           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 09/17/2013 15:37:30:356 00001464           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 09/17/2013 15:37:30:356 00001464           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/17/2013 15:37:30:357 00001464           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 09/17/2013 15:37:30:404 00001464           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/17/2013 15:37:30:406 00001464           HttpServer| Process URI: '/public/css/android.css'
+I 09/17/2013 15:37:30:497 00001464           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 09/17/2013 15:37:30:521 00001464           HttpServer| Process URI: '/favicon.ico'
+E 09/17/2013 15:37:30:522 00001464           HttpServer| The file /favicon.ico was not found
+I 09/17/2013 15:37:30:522 00001ad0         QtMainWindow| Page load complete.
+I 09/17/2013 15:37:32:125 00001464           HttpServer| Process URI: '/app/Geolocation'
+I 09/17/2013 15:37:32:125 00001464                  APP| RHO serve: /app/Geolocation
+I 09/17/2013 15:37:32:126 00001464              RhoRuby| require_compiled: Geolocation/geolocation_controller
+I 09/17/2013 15:37:32:127 00001464              RhoRuby| require_compiled: helpers/browser_helper
+I 09/17/2013 15:37:32:127 00001464                  APP| const_missing: Geolocation
+I 09/17/2013 15:37:32:128 00001464                  APP| load_model: Geolocation
+I 09/17/2013 15:37:32:128 00001464              RhoRuby| require_compiled: Geolocation/geolocation
+I 09/17/2013 15:37:32:128 00001464                  APP| model name: Geolocation
+I 09/17/2013 15:37:32:128 00001464                  APP| model class found
+I 09/17/2013 15:37:32:128 00001464                  APP| Geolocation : {"property"=>{}}
+I 09/17/2013 15:37:32:129 00001464                   DB| Open DB: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/rhosimulator/db/syncdblocal.sqlite
+I 09/17/2013 15:37:32:129 00001464                  APP| init_db_sources
+I 09/17/2013 15:37:32:130 00001464                  APP| start_id: 40005
+I 09/17/2013 15:37:32:130 00001464                  APP| Migrate schema sources: {}
+I 09/17/2013 15:37:32:130 00001464                  APP| eval_compiled_file : C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/Geolocation/index.erb
+I 09/17/2013 15:37:32:132 00001464           HttpServer| GC Start.
+I 09/17/2013 15:37:32:133 00001464           HttpServer| GC End.
+I 09/17/2013 15:37:32:147 00001ad0         QtMainWindow| WebView: URL changed
+I 09/17/2013 15:37:35:780 00001ad0         QtMainWindow| WebView: loading...
+I 09/17/2013 15:37:35:782 00001464           HttpServer| Process URI: '/app/GeoLocation/showmap'
+E 09/17/2013 15:37:35:783 00001464           HttpServer| The file /app/GeoLocation/showmap was not found
+E 09/17/2013 15:37:35:783 00001ad0         QtMainWindow| Page load failed.
+I 09/17/2013 15:37:37:813 00001ad0         QtMainWindow| WebView: loading...
+I 09/17/2013 15:37:37:815 00001464           HttpServer| Process URI: '/app/GeoLocation/showmap'
+E 09/17/2013 15:37:37:816 00001464           HttpServer| The file /app/GeoLocation/showmap was not found
+E 09/17/2013 15:37:37:816 00001ad0         QtMainWindow| Page load failed.
+I 09/17/2013 15:37:40:238 00001ad0         QtMainWindow| WebView: loading...
+I 09/17/2013 15:37:40:240 00001464           HttpServer| Process URI: '/app/GeoLocation/showmap_250'
+E 09/17/2013 15:37:40:242 00001464           HttpServer| The file /app/GeoLocation/showmap_250 was not found
+E 09/17/2013 15:37:40:242 00001ad0         QtMainWindow| Page load failed.
+I 09/17/2013 15:37:41:765 00001ad0         QtMainWindow| WebView: loading...
+I 09/17/2013 15:37:41:777 00001464           HttpServer| Process URI: '/app/GeoLocation/showmap'
+E 09/17/2013 15:37:41:778 00001464           HttpServer| The file /app/GeoLocation/showmap was not found
+E 09/17/2013 15:37:41:779 00001ad0         QtMainWindow| Page load failed.
+I 09/17/2013 15:39:10:113 00001118            RhodesApp| New start params: "-approot='C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile'" "-rhodespath='C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13'"
+I 09/17/2013 15:39:10:113 00001118      Rhodes.cpp: 468| Rhodes started
+I 09/17/2013 15:39:10:113 00001930         AppCallbacks| Starting main routine...
+I 09/17/2013 15:39:10:114 00001930         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/17/2013 15:39:10:114 00001118            RhodesApp| Trying to get free listening port.
+I 09/17/2013 15:39:10:115 00001118            RhodesApp| Trying to bind of 0 port...
+I 09/17/2013 15:39:10:115 00001118            RhodesApp| Got port to bind on: 1377
+I 09/17/2013 15:39:10:115 00001118            RhodesApp| Free listening port: 1377
+I 09/17/2013 15:39:10:171 00001118            RhodesApp| callAppActiveCallback
+I 09/17/2013 15:39:10:171 00001118         AppCallbacks| addCommand: APP-ACTIVATED
+I 09/17/2013 15:39:10:171 00001930         AppCallbacks| Received command APP-ACTIVATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 09/17/2013 15:39:10:171 00001930         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/17/2013 15:39:10:173 00001118         AppCallbacks| addCommand: UI-CREATED
+I 09/17/2013 15:39:10:173 00001930         AppCallbacks| Received command UI-CREATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I 09/17/2013 15:39:10:173 00001930         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/17/2013 15:39:10:173 00001118           MainWindow| navigate: 'about:blank'
+I 09/17/2013 15:39:10:173 00000414            RhodesApp| Starting RhodesApp main routine...
+I 09/17/2013 15:39:10:173 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:10:174 00001118         QtMainWindow| WebView: URL changed
+I 09/17/2013 15:39:10:174 00001118         QtMainWindow| Page load complete.
+I 09/17/2013 15:39:10:185 00000414              RhoRuby| Init_RhoBlobs: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/rhosimulator/db/db-files
+I 09/17/2013 15:39:10:187 00000414              RhoRuby| require_compiled: digest
+I 09/17/2013 15:39:10:188 00000414              RhoRuby| require_compiled: digest.so
+I 09/17/2013 15:39:10:194 00000414              RhoRuby| require_compiled: rhoframework
+I 09/17/2013 15:39:10:197 00000414              RhoRuby| require_compiled: rational
+I 09/17/2013 15:39:10:197 00000414              RhoRuby| require_compiled: rhom/rhom_db_adapter
+I 09/17/2013 15:39:10:203 00000414              RhoRuby| require_compiled: rhodes
+I 09/17/2013 15:39:10:203 00000414              RhoRuby| require_compiled: rhom/rhom_object
+I 09/17/2013 15:39:10:205 00000414              RhoRuby| require_compiled: rhofsconnector
+I 09/17/2013 15:39:10:205 00000414              RhoRuby| require_compiled: rho/rhofsconnector
+I 09/17/2013 15:39:10:208 00000414              RhoRuby| require_compiled: rhom/rhom_object_factory
+I 09/17/2013 15:39:10:233 00000414              RhoRuby| require_compiled: rhom/rhom
+I 09/17/2013 15:39:10:236 00000414              RhoRuby| require_compiled: rhom/rhom_model
+I 09/17/2013 15:39:10:238 00000414              RhoRuby| require_compiled: rhom
+I 09/17/2013 15:39:10:238 00000414              RhoRuby| require_compiled: rho/rhoapplication
+I 09/17/2013 15:39:10:241 00000414              RhoRuby| require_compiled: rholang/localization_simplified
+I 09/17/2013 15:39:10:243 00000414              RhoRuby| require_compiled: rho/rhomsg
+I 09/17/2013 15:39:10:244 00000414              RhoRuby| require_compiled: rho/rhotabbar
+I 09/17/2013 15:39:10:245 00000414              RhoRuby| require_compiled: rho/rhotoolbar
+I 09/17/2013 15:39:10:245 00000414                  APP| Current locale: ; Country code: 
+I 09/17/2013 15:39:10:245 00000414                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/lang_
+I 09/17/2013 15:39:10:246 00000414              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/lang_es
+I 09/17/2013 15:39:10:247 00000414                  APP| Locilized file: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/lang/lang_
+I 09/17/2013 15:39:10:247 00000414                  APP| Could not find resources for locale: es;file: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/lang/lang_
+I 09/17/2013 15:39:10:247 00000414                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhoerror_
+I 09/17/2013 15:39:10:247 00000414              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhoerror_es
+I 09/17/2013 15:39:10:248 00000414                  APP| Locilized file: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhomsg_
+I 09/17/2013 15:39:10:248 00000414              RhoRuby| require_compiled: C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13/lib/framework/rholang/rhomsg_es
+I 09/17/2013 15:39:10:249 00000414              RhoRuby| require_compiled: indifferent_access
+I 09/17/2013 15:39:10:251 00000414              RhoRuby| require_compiled: rho/rhosupport
+I 09/17/2013 15:39:10:253 00000414              RhoRuby| require_compiled: rho/rhocontroller
+I 09/17/2013 15:39:10:255 00000414              RhoRuby| require_compiled: rho/render
+I 09/17/2013 15:39:10:261 00000414              RhoRuby| require_compiled: rho/rho
+I 09/17/2013 15:39:10:280 00000414              RhoRuby| require_compiled: rho/rhoerror
+I 09/17/2013 15:39:10:282 00000414              RhoRuby| require_compiled: rhom/rhom_source
+E 09/17/2013 15:39:10:284 00000414              RhoRuby| require_compiled: error: can not find rhodes_translator
+I 09/17/2013 15:39:10:284 00000414              RhoRuby| require_compiled: rho/rhoviewhelpers
+I 09/17/2013 15:39:10:287 00000414              RhoRuby| require_compiled: rho
+I 09/17/2013 15:39:10:287 00000414              RhoRuby| require_compiled: debugger
+I 09/17/2013 15:39:10:291 00000414              RhoRuby| require_compiled: uri
+I 09/17/2013 15:39:10:292 00000414              RhoRuby| require_compiled: uri/common
+I 09/17/2013 15:39:10:307 00000414              RhoRuby| require_compiled: uri/generic
+I 09/17/2013 15:39:10:318 00000414              RhoRuby| require_compiled: uri/ftp
+I 09/17/2013 15:39:10:321 00000414              RhoRuby| require_compiled: uri/http
+I 09/17/2013 15:39:10:322 00000414              RhoRuby| require_compiled: uri/https
+I 09/17/2013 15:39:10:323 00000414              RhoRuby| require_compiled: uri/ldap
+I 09/17/2013 15:39:10:325 00000414              RhoRuby| require_compiled: uri/ldaps
+I 09/17/2013 15:39:10:325 00000414              RhoRuby| require_compiled: uri/mailto
+I 09/17/2013 15:39:10:329 00000414              RhoRuby| require_compiled: timeout
+I 09/17/2013 15:39:11:333 00000414                  APP| [Debugger] Unable to open connection to debugger: #<Errno::ECONNREFUSED: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión. - connect(2)>
+I 09/17/2013 15:39:11:333 00000414                  APP| RHO loaded
+I 09/17/2013 15:39:11:333 00000414                  APP| Calling RHO.initialize
+I 09/17/2013 15:39:11:334 00000414              RhoRuby| require_compiled: rhoappmanifest
+I 09/17/2013 15:39:11:335 00000414              RhoRuby| require_compiled: find
+I 09/17/2013 15:39:11:341 00000414                  APP| model file: Geolocation/geolocation
+I 09/17/2013 15:39:11:341 00000414                   DB| Open DB: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/rhosimulator/db/syncdbuser.sqlite
+I 09/17/2013 15:39:11:342 00000414          GeoLocation| Creating singleton instance.
+I 09/17/2013 15:39:11:342 00000414            RhodesApp| Starting sync engine...
+I 09/17/2013 15:39:11:342 00000414                 Sync| sync_poll_interval: 0
+I 09/17/2013 15:39:11:342 00000414                 Sync| syncserver: 
+I 09/17/2013 15:39:11:342 00000414                 Sync| bulksync_state: 0
+I 09/17/2013 15:39:11:342 00000414            RhodesApp| RhoRubyInitApp...
+I 09/17/2013 15:39:11:342 00000414                  APP| init_app
+I 09/17/2013 15:39:11:342 00000414              RhoRuby| require_compiled: application
+I 09/17/2013 15:39:11:343 00000414                 Sync| Set notification. Source ID: -1;Url :http://127.0.0.1:1377/app/Settings/sync_notify; Params: 
+I 09/17/2013 15:39:11:343 00000414           HttpServer| Start HTTP server
+I 09/17/2013 15:39:11:344 00000414           HttpServer| Listen for connections on port 1377
+I 09/17/2013 15:39:11:344 00000414         AppCallbacks| addCommand: LOCAL-SERVER-STARTED
+I 09/17/2013 15:39:11:344 00001930         AppCallbacks| process command: LOCAL-SERVER-STARTED
+I 09/17/2013 15:39:11:344 00001930  SystemImpl.cpp: 829| rho_sys_report_app_started() has no implementation on Win Mobile.
+I 09/17/2013 15:39:11:344 00001930         AppCallbacks| process command: UI-CREATED
+I 09/17/2013 15:39:11:345 00001930                  Net| Method: GET;Url: http://127.0.0.1:1377/system/uicreated
+I 09/17/2013 15:39:11:375 00000414           HttpServer| Process URI: '/system/uicreated'
+I 09/17/2013 15:39:11:375 00000414                  APP| on_ui_created.navigate to start url: '/app'
+I 09/17/2013 15:39:11:376 00001118           MainWindow| navigate: 'http://127.0.0.1:1377/app'
+I 09/17/2013 15:39:11:376 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:11:376 00001930         AppCallbacks| process command: APP-ACTIVATED
+I 09/17/2013 15:39:11:376 00001930                  Net| Method: GET;Url: http://127.0.0.1:1377/system/activateapp
+I 09/17/2013 15:39:11:377 00000414           HttpServer| Process URI: '/system/activateapp'
+I 09/17/2013 15:39:11:377 00001930         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/17/2013 15:39:11:386 00000414           HttpServer| Process URI: '/app'
+I 09/17/2013 15:39:11:397 00000414           HttpServer| Process URI: '/app/index.erb'
+I 09/17/2013 15:39:11:398 00000414                  APP| RHO serve_index: /app/index.erb
+I 09/17/2013 15:39:11:398 00000414 RHO Rho::RhoController| inst_render_index
+I 09/17/2013 15:39:11:398 00000414              RhoRuby| require_compiled: erb
+I 09/17/2013 15:39:11:404 00000414                  APP| eval_compiled_file : C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/index.erb
+I 09/17/2013 15:39:11:406 00000414 RHO Rho::RhoController| index layout
+I 09/17/2013 15:39:11:406 00000414                  APP| eval_compiled_file : C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/layout.erb
+I 09/17/2013 15:39:11:408 00001118           MainWindow| addToolbarButton: Label: '';Action: 'back'
+I 09/17/2013 15:39:11:408 00000414           HttpServer| GC Start.
+I 09/17/2013 15:39:11:408 00001118           MainWindow| addToolbarButton: Label: '';Action: 'separator'
+I 09/17/2013 15:39:11:408 00001118           MainWindow| addToolbarButton: Label: '';Action: 'home'
+I 09/17/2013 15:39:11:408 00001118           MainWindow| addToolbarButton: Label: '';Action: 'refresh'
+I 09/17/2013 15:39:11:408 00001118           MainWindow| addToolbarButton: Label: '';Action: 'options'
+I 09/17/2013 15:39:11:411 00000414           HttpServer| GC End.
+I 09/17/2013 15:39:11:411 00001118         QtMainWindow| WebView: URL changed
+I 09/17/2013 15:39:11:485 00000414           HttpServer| Process URI: '/public/jquery/jquery-1.6.4.min.js'
+I 09/17/2013 15:39:11:486 00000414           HttpServer| Process URI: '/public/jquery/jquery.json-2.3.min.js'
+I 09/17/2013 15:39:11:488 00000414           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.css'
+I 09/17/2013 15:39:11:489 00000414           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/17/2013 15:39:11:489 00000414           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.0.1.min.js'
+I 09/17/2013 15:39:11:527 00000414           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/17/2013 15:39:11:528 00000414           HttpServer| Process URI: '/public/css/android.css'
+I 09/17/2013 15:39:11:623 00000414           HttpServer| Process URI: '/public/jqmobile/images/icons-18-white.png'
+I 09/17/2013 15:39:11:628 00000414           HttpServer| Process URI: '/favicon.ico'
+E 09/17/2013 15:39:11:629 00000414           HttpServer| The file /favicon.ico was not found
+I 09/17/2013 15:39:11:641 00001118         QtMainWindow| Page load complete.
+I 09/17/2013 15:39:13:555 00000414           HttpServer| Process URI: '/app/Geolocation'
+I 09/17/2013 15:39:13:556 00000414                  APP| RHO serve: /app/Geolocation
+I 09/17/2013 15:39:13:556 00000414              RhoRuby| require_compiled: Geolocation/geolocation_controller
+I 09/17/2013 15:39:13:558 00000414              RhoRuby| require_compiled: helpers/browser_helper
+I 09/17/2013 15:39:13:559 00000414                  APP| const_missing: Geolocation
+I 09/17/2013 15:39:13:559 00000414                  APP| load_model: Geolocation
+I 09/17/2013 15:39:13:559 00000414              RhoRuby| require_compiled: Geolocation/geolocation
+I 09/17/2013 15:39:13:560 00000414                  APP| model name: Geolocation
+I 09/17/2013 15:39:13:560 00000414                  APP| model class found
+I 09/17/2013 15:39:13:560 00000414                  APP| Geolocation : {"property"=>{}}
+I 09/17/2013 15:39:13:560 00000414                   DB| Open DB: C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/rhosimulator/db/syncdblocal.sqlite
+I 09/17/2013 15:39:13:561 00000414                  APP| init_db_sources
+I 09/17/2013 15:39:13:562 00000414                  APP| start_id: 40005
+I 09/17/2013 15:39:13:562 00000414                  APP| Migrate schema sources: {}
+I 09/17/2013 15:39:13:563 00000414                  APP| eval_compiled_file : C:/Users/Sebastian/Desktop/Proyecto_Taller/LiveAndesMobile/app/Geolocation/index.erb
+I 09/17/2013 15:39:13:565 00000414           HttpServer| GC Start.
+I 09/17/2013 15:39:13:568 00000414           HttpServer| GC End.
+I 09/17/2013 15:39:13:578 00001118         QtMainWindow| WebView: URL changed
+I 09/17/2013 15:39:15:125 00001118         QtMainWindow| WebView: loading...
+I 09/17/2013 15:39:15:126 00000414           HttpServer| Process URI: '/app/GeoLocation/showmap_250'
+r| GC Start.
+ require_compiled: rho/rhocontroller
+rhofsconnector
+led: rho/render
+
+ogin

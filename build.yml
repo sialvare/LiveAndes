@@ -1,0 +1,35 @@
+#sdk: "C:/MotorolaRhoMobileSuite2.2.1.13/ruby/lib/ruby/gems/1.9.1/gems/rhodes-3.5.1.13"
+sdkversion: "3.5.0"
+name: "LiveAndesMobile"
+version: 1.0
+vendor: "rhomobile"
+build: "debug"
+bbver: 4.6
+applog: "rholog.txt"
+iphone:
+  configuration: "Release"
+  sdk: "iphonesimulator5.0"
+  provisionprofile: 
+  codesignidentity: 
+  entitlements: 
+  BundleIdentifier: "com.rhomobile.liveandesmobile"
+  BundleURLScheme: "liveandesmobile"
+wp:
+  productid: "124953e0-0040-0131-07ad-10a4deb83484"
+symbian:
+  uid: "0xe0681585"
+android:
+  version: "2.3.3"
+extensions:
+  - json
+  - another-extension
+capabilities:
+  - gps
+  - pim
+  - camera
+  - vibrate
+  - phone
+  - bluetooth
+  - calendar
+  - non_motorola_device
+  - native_browser
